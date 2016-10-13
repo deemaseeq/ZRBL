@@ -1,0 +1,53 @@
+body {
+  color: #222222; }
+
+a {
+  color: tomato; }
+
+.color_element {
+  color: tomato; }
+
+.color_bg {
+  background-color: tomato; }
+
+.color_border {
+  border-color: tomato; }
+
+.bg_light {
+  background-color: firebrick; }
+
+.bg_dark {
+  background-color: #222222;
+  color: white; }
+  .bg_dark a {
+    color: white; }
+
+.main_color_bg {
+  background-color: #222222; }
+
+.top_text p {
+  letter-spacing: 10px; }
+
+.s_descr::after {
+  background-color: #222222; }
+
+.section h3 {
+  color: #888888; }
+
+.s_about p:nth-child(even) {
+  color: red; }
+
+.s_portfolio li {
+  color: black; }
+
+.text-danger {
+  color: tomato; }
+
+form input:focus,
+form textarea:focus {
+  border: 1px solid red;
+  letter-spacing: 3px; }
+form button {
+  letter-spacing: 3px; }
+
+/*# sourceMappingURL=tomato.css.map */

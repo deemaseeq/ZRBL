@@ -1,0 +1,50 @@
+/* 
+    Created on : 20.03.2016, 23:41:11
+    Author     : dmitriy
+*/
+body {
+  font-family: "Raleway", sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  min-width: 320px;
+  position: relative;
+  line-height: 1.42857;
+  -webkit-font-smoothing: antialised; }
+
+.section_header {
+  text-align: center;
+  margin-bottom: 20px; }
+  .section_header h2 {
+    margin-bottom: 20px; }
+  .section_header p {
+    letter-spacing: 3px; }
+
+.fa {
+  margin: 20px; }
+
+.section_container {
+  margin: 5px 15px; }
+
+.row {
+  margin: 0; }
+
+.product_image {
+  text-align: left; }
+  .product_image img {
+    width: 200px;
+    height: 200px; }
+
+.panel-heading {
+  font-size: 20px;
+  height: 50px; }
+
+.product_info {
+  padding-bottom: 30px; }
+
+.product_type {
+  text-align: right; }
+
+.buying_section button {
+  text-align: right; }
+
+/*# sourceMappingURL=shop.css.map */
