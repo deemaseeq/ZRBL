@@ -9,10 +9,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+
 <meta charset="utf-8" />
 <title>Old Icon Tattoo</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
 <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="libs/bootstrap/bootstrap.min.css">
 <link rel="stylesheet" href="libs/bootstrap/bootstrap-grid.min.css" />
@@ -23,7 +26,10 @@
 <link rel="stylesheet" href="css/fonts.css" />
 <link rel="stylesheet" href="css/main.css" />
 <link rel="stylesheet" href="css/media.css" />
+
+
 </head>
+
 <body>
 
 	<div class="loader">
@@ -49,8 +55,6 @@
 
 
 	</header>
-
-
 
 
 	<section class="j_about">
@@ -107,12 +111,6 @@
 
 
 
-
-
-
-
-
-
 	<section id="about" class="a_about">
 
 		<div class="section_conteiner">
@@ -160,9 +158,6 @@
 	</section>
 
 
-
-
-
 	<section class="b_about">
 		<div class="section_conteiner">
 			<div class="container">
@@ -198,20 +193,16 @@
 						<div class="social_wrap">
 							<a href="https://vk.com/damngoodtattoo" target="_blank"><i
 								class="fa fa-vk fa-2x"></i></a> <a
-								href="https://www.instagram.com/damngoodtattoo/" target="_blank"><i
-								class="fa fa-instagram fa-2x"></i></a> <a
-								href="https://www.facebook.com/damngoodtattoo" target="_blank"><i
-								class="fa fa-facebook fa-2x"></i></a>
+								href="https://www.instagram.com/damngoodtattoo/" target="_blank">
+								<i class="fa fa-instagram fa-2x"></i>
+							</a> <a href="https://www.facebook.com/damngoodtattoo"
+								target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-
-
-
-
 
 
 	<section class="i_about">
@@ -515,18 +506,19 @@
 			<div class="foot_descr">
 				&copy; 2016 URICH and ЖМЫХ
 				<div class="foot_icons">
-					<a href="https://vk.com/klishetattooist" target="_blank"><i
-						class="fa fa-vk fa-2x"></i></a> <a
-						href="https://vk.com/klishetattooist" target="_blank"><i
-						class="fa fa-instagram fa-2x"></i></a> <a
-						href="https://www.instagram.com/klishettd/" target="_blank"><i
-						class="fa fa-google fa-2x"></i></a> <a
-						href="https://www.instagram.com/klishettd/" target="_blank"><i
-						class="fa fa-facebook fa-2x"></i></a> <a
-						href="https://www.instagram.com/klishettd/" target="_blank"><i
-						class="fa fa-twitter fa-2x"></i></a> <a
-						href="https://www.instagram.com/klishettd/" target="_blank"><i
-						class="fa fa-linkedin fa-2x"></i></a>
+					<a href="https://vk.com/klishetattooist" target="_blank"> <i
+						class="fa fa-vk fa-2x"></i>
+					</a> <a href="https://vk.com/klishetattooist" target="_blank"> <i
+						class="fa fa-instagram fa-2x"></i>
+					</a> <a href="https://www.instagram.com/klishettd/" target="_blank">
+						<i class="fa fa-google fa-2x"></i>
+					</a> <a href="https://www.instagram.com/klishettd/" target="_blank">
+						<i class="fa fa-facebook fa-2x"></i>
+					</a> <a href="https://www.instagram.com/klishettd/" target="_blank">
+						<i class="fa fa-twitter fa-2x"></i>
+					</a> <a href="https://www.instagram.com/klishettd/" target="_blank">
+						<i class="fa fa-linkedin fa-2x"></i>
+					</a>
 				</div>
 			</div>
 		</div>
